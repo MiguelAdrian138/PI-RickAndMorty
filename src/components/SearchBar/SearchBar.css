@@ -1,0 +1,19 @@
+.btn {
+  background-color: #212121;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+  top: 0;
+  right: 0;
+  transition: 0.9s ease;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+  color: rgb(255, 255, 255);
+  background-color: #1c3042;
+}
